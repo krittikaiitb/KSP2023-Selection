@@ -4,5 +4,5 @@ The problem statement is given in Problem_Statement.ipynb (which you can view di
 Submit the solution code as a Python notebook, along with a **write-up describing your approach**.
 
 ### Useful Links - 
-[Spherical Coordinate Systems in Astronomy](https://en.wikipedia.org/wiki/Equatorial_coordinate_system#Spherical_coordinates)
+[Spherical Coordinate Systems in Astronomy](https://en.wikipedia.org/wiki/Equatorial_coordinate_system#Spherical_coordinates)  
 [Hubble's Law](https://en.wikipedia.org/wiki/Hubble%27s_law) and [Redshift](https://en.wikipedia.org/wiki/Redshift)
