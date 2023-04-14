@@ -17,6 +17,7 @@ To add your name etc, click on the icon that looks like a pen (to modify the fil
 * Submit the solution code as a Python notebook ```.ipynb```, along with a **write-up describing your approach**. The approach should also be written in the same Python notebook. Name the file as ```answers.ipynb``` before submitting.
 * To submit the file click on the **Add file** button at the top and **Upload files**.
 * If you make any wrong uploads, just delete the file and re-upload. To delete a file, open the file, click on delete icon and commit changes.
+* Please join this Telegram group for updates and doubt clarifications (if any) on the problem statement :  [link](https://t.me/+f7lIIvQdRKo3ZDY1).
 
 
 
