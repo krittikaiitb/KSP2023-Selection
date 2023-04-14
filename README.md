@@ -25,5 +25,5 @@ To add your name etc, click on the icon that looks like a pen (to modify the fil
 [Spherical Coordinate Systems in Astronomy](https://en.wikipedia.org/wiki/Equatorial_coordinate_system#Spherical_coordinates)  
 [Hubble's Law](https://en.wikipedia.org/wiki/Hubble%27s_law) and [Redshift](https://en.wikipedia.org/wiki/Redshift)  
 [Galaxy Rotation Curves](https://en.wikipedia.org/wiki/Galaxy_rotation_curve)  
-[NFW Profile](https://en.wikipedia.org/wiki/Navarro%E2%80%93Frenk%E2%80%93White_profile)
+[NFW Profile](https://en.wikipedia.org/wiki/Navarro%E2%80%93Frenk%E2%80%93White_profile)<br>
 [Krittika Tutorials](https://github.com/krittikaiitb/tutorials/)
